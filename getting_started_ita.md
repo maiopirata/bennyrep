@@ -14,4 +14,5 @@ Per ultima cosa dobbiamo installare ubuntu nel computer. Salva tutti i dati che 
 
 Spegni il computer dove vuoi installare ubuntu e appena acceso stai pronta a schiacciare F1, F2, F3, il tasto delete, esc. Schiaccia questi tasti tutti insieme a meno che tu sappia già quale di questi tasti ti permette di entrare nel BIOS del computer.
 
-Una volta di fronte alla schermata blu, [To be continued...]
+Una volta di fronte alla schermata blu del bios (che sembra l'immagine seguente):
+![BiosImage](images/bios.png)
