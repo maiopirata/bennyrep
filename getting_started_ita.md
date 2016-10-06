@@ -1,4 +1,4 @@
-# Installazione
+# Installazione computer Ubuntu
 Questi step preparatori possono prendere anche 1 pomeriggio. Qualsiasi ingeniere o smanettone ti puo` aiutare!
 
 Per prima cosa dobbiamo riuscire a creare un ambiente che permetta a Benny di sperimentare senza problemi.
@@ -16,3 +16,12 @@ Spegni il computer dove vuoi installare ubuntu e appena acceso stai pronta a sch
 
 Una volta di fronte alla schermata blu del bios (che sembra l'immagine seguente):
 ![BiosImage](images/bios.png)
+
+Navigando tra le opzioni con le frecce troverai una specifica che dice "First Boot Device" o "Order of Boot ..". L'importante è la parola "boot", che stabilisce dove il cervello del computer guarderà per primo per caricare il sistema.
+![BiosOptions](images/bios2.png)
+
+Scegli la chiave Usb come primo boot (qualche volta chiamata removable device o simili...)
+
+Una volta fatta questa modifica, inserisci la chiave usb con ubuntu e premi il tasto "save & exit".
+
+Il computer si riavvia e ti porterà ad installare ubuntu! Ora sarà un computer perfetto per sperimentare un po' di programmazione. 
