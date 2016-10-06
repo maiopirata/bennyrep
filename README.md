@@ -1,7 +1,7 @@
 # Why this repo and how to use it
 This repository is a tentative to experiment how to teach some fun informatics to a kid with disability. It will be mainly experimental, grouping different ideas and linking to the work of other people, it will also possibly contain coding games or whatever interests Benny!
 
-It will be in Italian, because it will be used for an italian kid. It is provided as open-source under the MIT Licence.
+It will be in Italian, because it will be used for an italian kid. It is provided as open-source under the [MIT Licence](LICENCE.md).
 
 A possible translation will be provided to anyone that is interested. Also collaborations of any kind is welcome.
 
